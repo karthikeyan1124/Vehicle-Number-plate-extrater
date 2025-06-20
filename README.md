@@ -22,8 +22,7 @@ This project detects vehicle number plates in real time using **YOLOv8** and **E
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+[git clone ](https://github.com/karthikeyan1124/Vehicle-Number-plate-extrater.git)
 ```
 
 ### 2️⃣ Install Dependencies
