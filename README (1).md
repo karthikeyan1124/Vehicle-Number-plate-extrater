@@ -57,7 +57,8 @@ python app1.py
 - `google_sheets_key.json` — your API credentials (NOT included in repo)
 
 ## 🎬 Demo
-[Add a demo GIF or YouTube link here]
+![Screenshot 2025-03-16 082949](https://github.com/user-attachments/assets/2ce8e2fe-fae0-4096-932d-55feff92c27f)
+
 
 ## ✏️ How It Works
 1. Captures frames from webcam
